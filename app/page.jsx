@@ -115,7 +115,7 @@ const page = () => {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>掲示barn</h1>
+      <h1 className={styles.title}>掲示バーン</h1>
       <div className={styles.flexBoxColumn}>
         <input
           type="text"
